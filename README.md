@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Armaan Dev School Management Dashboard for RL Academy
 
 ## Getting Started
 
@@ -22,5 +22,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
 - [Next.js](https://nextjs.org/learn)
